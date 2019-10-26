@@ -1,0 +1,3 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary
+1,1111,Jane,822,France,Male,50,7,0,2,1,1,10062.8
+2,2222,John,376,Germany,Female,29,4,115046.74,4,1,0,119346.88
